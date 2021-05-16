@@ -32,7 +32,7 @@ phase = 0
 speed = 0.1 #initial speed
 
 while True:
-    while enable == True: #An interupt would make more sense here, but his is easier to read
+    while enable == True: #An interupt would make more sense here, but this is easier to read
         print("entered primary loop")
         #set pins
         i = 0
